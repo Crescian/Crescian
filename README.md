@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg1aTYyN2Fta3h4enF4NmpzNjIxdmVjYjhwbGxiMGtubzN0YmtraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif)
 <h1 align="center">Hi 👋, I'm Crescian Lloyd Lanoy</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
