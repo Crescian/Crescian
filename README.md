@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **vue and laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Crescian/WebApp.git](https://github.com/Crescian/WebApp.git)
-
 - 💬 Ask me about **javascript and php**
 
 - 📫 How to reach me **lcoryed@gmail.com**
