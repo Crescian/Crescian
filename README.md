@@ -2,13 +2,9 @@
 <h3 align="center">A passionate full stack web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
-- 🔭 I’m currently working on [WebApp](https://github.com/Crescian/WebApp.git)
+- 🔭 I’m currently working on [Treasury System, HRIS, Attendance System, Community System and Project Collaboration App]
 
 - 🌱 I’m currently learning **vue and laravel**
-
-- 👯 I’m looking to collaborate on [New-Project](https://github.com/Crescian/WebApp.git)
-
-- 🤝 I’m looking for help with [New-Project](https://github.com/Crescian/New-Project.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Crescian/WebApp.git](https://github.com/Crescian/WebApp.git)
 
