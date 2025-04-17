@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [WebApp](https://github.com/Crescian/WebApp.git)
 
-- 🌱 I’m currently learning **angular and laravel**
+- 🌱 I’m currently learning **vue and laravel**
 
 - 👯 I’m looking to collaborate on [New-Project](https://github.com/Crescian/WebApp.git)
 
